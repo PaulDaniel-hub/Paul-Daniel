@@ -1,0 +1,6 @@
+{
+  "name": "B.Tech AI Student Portfolio & Prompt Blueprint",
+  "description": "A clean, non-neon professional portfolio for a first-year B.Tech AI student featuring C, Python, Web Development, Generative AI fundamentals, interactive project simulators, and a customizable Google AI Studio prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
