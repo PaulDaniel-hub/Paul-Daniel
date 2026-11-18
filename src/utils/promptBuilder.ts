@@ -18,7 +18,7 @@ export const DEFAULT_PROFILE: StudentProfile = {
   headline: 'Building strong foundations in C, Python, and practical web systems.',
   bio: 'First-year B.Tech AI student focused on algorithmic thinking in C, problem solving in Python, clean frontend web development, and beginner-level Generative AI experimentation through hackathons and ideathons.',
   linkedinUrl: 'https://www.linkedin.com/in/paul-daniel-410b24440',
-  githubUrl: 'https://github.com/your-handle',
+  githubUrl: 'https://github.com/PaulDaniel-hub',
   email: 'paul.daniel@example.edu',
 };
 
